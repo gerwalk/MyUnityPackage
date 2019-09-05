@@ -1,0 +1,3 @@
+[submodule "TestPackage"]
+	path = TestPackage
+	url = https://github.com/gerwalk/TestPackage
